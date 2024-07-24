@@ -1,8 +1,6 @@
 # FMT
 The objective of the Feature Selection and Model Tuning project is to optimize predictive model performance by selecting the most relevant features and fine-tuning model parameters. Utilizing techniques such as PCA and various hyperparameter optimization methods to  reduce overfitting, and improve generalization.
 
-The objective of the Feature Selection and Model Tuning (FMT) project is to optimize predictive model performance by selecting the most relevant features and fine-tuning model parameters. Utilizing techniques such as Principal Component Analysis (PCA) and various hyperparameter optimization methods, the project aims to enhance model accuracy, reduce overfitting, and improve generalization.
-
 
 ![image](https://github.com/user-attachments/assets/8dfa4c2f-b066-4a5a-91d4-f40d44fd66e5)
 
